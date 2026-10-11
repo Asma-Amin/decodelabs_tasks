@@ -99,5 +99,3 @@ docs/                result images used in this README
 - Model: MobileNet-SSD Caffe weights by [chuanqi305](https://github.com/chuanqi305/MobileNet-SSD),
   trained on PASCAL VOC.
 - Sample photos: OpenCV and Darknet sample data.
-
-Built by **Asma Amin** · BSIT, Lahore Garrison University
